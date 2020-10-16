@@ -1,2 +1,2 @@
 # website-3
-A responsive website using css html bootstrap
+A interactive and responsive website template for travel built using html css and bootstrap
